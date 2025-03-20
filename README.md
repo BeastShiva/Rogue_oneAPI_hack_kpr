@@ -112,10 +112,10 @@ A comprehensive C application that simplifies food ordering, optimizes delivery,
 - Submit a pull request
 
 ## Authors
-- Developed by Shreyas K, Shiva Ganesh, Mahadev Ramesh Ramya
+- Developed by Shreyas K, Shiva Ganesh V, Mahadev Ramesh Ramya
 
 ## Contact Information
-For questions or support, contact shreyas2310140@ssn.edu.in
+For questions or support, contact shreyas2310140@ssn.edu.in shivaganesh2310321@ssn.edu.in
 
 
 
